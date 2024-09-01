@@ -1,0 +1,17 @@
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\bin\Debug\net6.0-windows\WinFormsApp9_inheritance.exe
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\bin\Debug\net6.0-windows\WinFormsApp9_inheritance.deps.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\bin\Debug\net6.0-windows\WinFormsApp9_inheritance.runtimeconfig.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\bin\Debug\net6.0-windows\WinFormsApp9_inheritance.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\bin\Debug\net6.0-windows\WinFormsApp9_inheritance.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\obj\Debug\net6.0-windows\WinFormsApp9_inheritance.csproj.AssemblyReference.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\obj\Debug\net6.0-windows\WinFormsApp9_inheritance.Form1.resources
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\obj\Debug\net6.0-windows\WinFormsApp9_inheritance.csproj.GenerateResource.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\obj\Debug\net6.0-windows\WinFormsApp9_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\obj\Debug\net6.0-windows\WinFormsApp9_inheritance.AssemblyInfoInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\obj\Debug\net6.0-windows\WinFormsApp9_inheritance.AssemblyInfo.cs
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\obj\Debug\net6.0-windows\WinFormsApp9_inheritance.csproj.CoreCompileInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\obj\Debug\net6.0-windows\WinFormsApp9_inheritance.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\obj\Debug\net6.0-windows\refint\WinFormsApp9_inheritance.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\obj\Debug\net6.0-windows\WinFormsApp9_inheritance.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\obj\Debug\net6.0-windows\WinFormsApp9_inheritance.genruntimeconfig.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp9_inheritance\WinFormsApp9_inheritance\obj\Debug\net6.0-windows\ref\WinFormsApp9_inheritance.dll

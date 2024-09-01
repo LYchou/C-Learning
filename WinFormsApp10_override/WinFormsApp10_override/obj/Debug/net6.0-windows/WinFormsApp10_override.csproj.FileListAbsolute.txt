@@ -1,0 +1,17 @@
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\bin\Debug\net6.0-windows\WinFormsApp10_override.exe
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\bin\Debug\net6.0-windows\WinFormsApp10_override.deps.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\bin\Debug\net6.0-windows\WinFormsApp10_override.runtimeconfig.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\bin\Debug\net6.0-windows\WinFormsApp10_override.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\bin\Debug\net6.0-windows\WinFormsApp10_override.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\obj\Debug\net6.0-windows\WinFormsApp10_override.csproj.AssemblyReference.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\obj\Debug\net6.0-windows\WinFormsApp10_override.Form1.resources
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\obj\Debug\net6.0-windows\WinFormsApp10_override.csproj.GenerateResource.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\obj\Debug\net6.0-windows\WinFormsApp10_override.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\obj\Debug\net6.0-windows\WinFormsApp10_override.AssemblyInfoInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\obj\Debug\net6.0-windows\WinFormsApp10_override.AssemblyInfo.cs
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\obj\Debug\net6.0-windows\WinFormsApp10_override.csproj.CoreCompileInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\obj\Debug\net6.0-windows\WinFormsApp10_override.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\obj\Debug\net6.0-windows\refint\WinFormsApp10_override.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\obj\Debug\net6.0-windows\WinFormsApp10_override.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\obj\Debug\net6.0-windows\WinFormsApp10_override.genruntimeconfig.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp10_override\WinFormsApp10_override\obj\Debug\net6.0-windows\ref\WinFormsApp10_override.dll

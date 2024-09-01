@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsApp6_static/1.0.0": {
+        "runtime": {
+          "WinFormsApp6_static.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp6_static/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

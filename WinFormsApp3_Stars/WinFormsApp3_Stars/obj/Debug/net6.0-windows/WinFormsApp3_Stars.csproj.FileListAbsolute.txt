@@ -1,0 +1,17 @@
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\bin\Debug\net6.0-windows\WinFormsApp3_Stars.exe
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\bin\Debug\net6.0-windows\WinFormsApp3_Stars.deps.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\bin\Debug\net6.0-windows\WinFormsApp3_Stars.runtimeconfig.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\bin\Debug\net6.0-windows\WinFormsApp3_Stars.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\bin\Debug\net6.0-windows\WinFormsApp3_Stars.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\obj\Debug\net6.0-windows\WinFormsApp3_Stars.csproj.AssemblyReference.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\obj\Debug\net6.0-windows\WinFormsApp3_Stars.Form1.resources
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\obj\Debug\net6.0-windows\WinFormsApp3_Stars.csproj.GenerateResource.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\obj\Debug\net6.0-windows\WinFormsApp3_Stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\obj\Debug\net6.0-windows\WinFormsApp3_Stars.AssemblyInfoInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\obj\Debug\net6.0-windows\WinFormsApp3_Stars.AssemblyInfo.cs
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\obj\Debug\net6.0-windows\WinFormsApp3_Stars.csproj.CoreCompileInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\obj\Debug\net6.0-windows\WinFormsApp3_Stars.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\obj\Debug\net6.0-windows\refint\WinFormsApp3_Stars.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\obj\Debug\net6.0-windows\WinFormsApp3_Stars.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\obj\Debug\net6.0-windows\WinFormsApp3_Stars.genruntimeconfig.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp3_Stars\WinFormsApp3_Stars\obj\Debug\net6.0-windows\ref\WinFormsApp3_Stars.dll

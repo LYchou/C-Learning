@@ -1,0 +1,17 @@
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\obj\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.csproj.AssemblyReference.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\obj\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.Form1.resources
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\obj\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.csproj.GenerateResource.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\obj\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\obj\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.AssemblyInfoInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\obj\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.AssemblyInfo.cs
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\obj\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.csproj.CoreCompileInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\bin\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.exe
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\bin\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.deps.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\bin\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.runtimeconfig.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\bin\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\bin\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\obj\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\obj\Debug\net6.0-windows\refint\WinFormsApp16_SwitchAndEnum.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\obj\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\obj\Debug\net6.0-windows\WinFormsApp16_SwitchAndEnum.genruntimeconfig.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp16_SwitchAndEnum\WinFormsApp16_SwitchAndEnum\obj\Debug\net6.0-windows\ref\WinFormsApp16_SwitchAndEnum.dll

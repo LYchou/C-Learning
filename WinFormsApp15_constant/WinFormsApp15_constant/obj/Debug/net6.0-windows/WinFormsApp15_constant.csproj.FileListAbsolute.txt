@@ -1,0 +1,17 @@
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\bin\Debug\net6.0-windows\WinFormsApp15_constant.exe
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\bin\Debug\net6.0-windows\WinFormsApp15_constant.deps.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\bin\Debug\net6.0-windows\WinFormsApp15_constant.runtimeconfig.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\bin\Debug\net6.0-windows\WinFormsApp15_constant.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\bin\Debug\net6.0-windows\WinFormsApp15_constant.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\obj\Debug\net6.0-windows\WinFormsApp15_constant.csproj.AssemblyReference.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\obj\Debug\net6.0-windows\WinFormsApp15_constant.Form1.resources
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\obj\Debug\net6.0-windows\WinFormsApp15_constant.csproj.GenerateResource.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\obj\Debug\net6.0-windows\WinFormsApp15_constant.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\obj\Debug\net6.0-windows\WinFormsApp15_constant.AssemblyInfoInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\obj\Debug\net6.0-windows\WinFormsApp15_constant.AssemblyInfo.cs
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\obj\Debug\net6.0-windows\WinFormsApp15_constant.csproj.CoreCompileInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\obj\Debug\net6.0-windows\WinFormsApp15_constant.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\obj\Debug\net6.0-windows\refint\WinFormsApp15_constant.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\obj\Debug\net6.0-windows\WinFormsApp15_constant.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\obj\Debug\net6.0-windows\WinFormsApp15_constant.genruntimeconfig.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp15_constant\WinFormsApp15_constant\obj\Debug\net6.0-windows\ref\WinFormsApp15_constant.dll

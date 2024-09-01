@@ -1,0 +1,17 @@
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\bin\Debug\net6.0-windows\WinFormsApp13_base.exe
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\bin\Debug\net6.0-windows\WinFormsApp13_base.deps.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\bin\Debug\net6.0-windows\WinFormsApp13_base.runtimeconfig.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\bin\Debug\net6.0-windows\WinFormsApp13_base.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\bin\Debug\net6.0-windows\WinFormsApp13_base.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\obj\Debug\net6.0-windows\WinFormsApp13_base.csproj.AssemblyReference.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\obj\Debug\net6.0-windows\WinFormsApp13_base.Form1.resources
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\obj\Debug\net6.0-windows\WinFormsApp13_base.csproj.GenerateResource.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\obj\Debug\net6.0-windows\WinFormsApp13_base.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\obj\Debug\net6.0-windows\WinFormsApp13_base.AssemblyInfoInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\obj\Debug\net6.0-windows\WinFormsApp13_base.AssemblyInfo.cs
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\obj\Debug\net6.0-windows\WinFormsApp13_base.csproj.CoreCompileInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\obj\Debug\net6.0-windows\WinFormsApp13_base.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\obj\Debug\net6.0-windows\refint\WinFormsApp13_base.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\obj\Debug\net6.0-windows\WinFormsApp13_base.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\obj\Debug\net6.0-windows\WinFormsApp13_base.genruntimeconfig.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp13_base\WinFormsApp13_base\obj\Debug\net6.0-windows\ref\WinFormsApp13_base.dll

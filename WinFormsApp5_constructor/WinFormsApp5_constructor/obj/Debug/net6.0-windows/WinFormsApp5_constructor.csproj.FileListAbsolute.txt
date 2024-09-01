@@ -1,0 +1,17 @@
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\bin\Debug\net6.0-windows\WinFormsApp5_constructor.exe
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\bin\Debug\net6.0-windows\WinFormsApp5_constructor.deps.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\bin\Debug\net6.0-windows\WinFormsApp5_constructor.runtimeconfig.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\bin\Debug\net6.0-windows\WinFormsApp5_constructor.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\bin\Debug\net6.0-windows\WinFormsApp5_constructor.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\obj\Debug\net6.0-windows\WinFormsApp5_constructor.csproj.AssemblyReference.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\obj\Debug\net6.0-windows\WinFormsApp5_constructor.Form1.resources
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\obj\Debug\net6.0-windows\WinFormsApp5_constructor.csproj.GenerateResource.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\obj\Debug\net6.0-windows\WinFormsApp5_constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\obj\Debug\net6.0-windows\WinFormsApp5_constructor.AssemblyInfoInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\obj\Debug\net6.0-windows\WinFormsApp5_constructor.AssemblyInfo.cs
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\obj\Debug\net6.0-windows\WinFormsApp5_constructor.csproj.CoreCompileInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\obj\Debug\net6.0-windows\WinFormsApp5_constructor.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\obj\Debug\net6.0-windows\refint\WinFormsApp5_constructor.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\obj\Debug\net6.0-windows\WinFormsApp5_constructor.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\obj\Debug\net6.0-windows\WinFormsApp5_constructor.genruntimeconfig.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp5_constructor\WinFormsApp5_constructor\obj\Debug\net6.0-windows\ref\WinFormsApp5_constructor.dll

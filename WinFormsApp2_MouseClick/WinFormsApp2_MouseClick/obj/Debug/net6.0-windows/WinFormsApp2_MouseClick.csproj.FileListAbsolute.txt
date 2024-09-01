@@ -1,0 +1,17 @@
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\bin\Debug\net6.0-windows\WinFormsApp2_MouseClick.exe
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\bin\Debug\net6.0-windows\WinFormsApp2_MouseClick.deps.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\bin\Debug\net6.0-windows\WinFormsApp2_MouseClick.runtimeconfig.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\bin\Debug\net6.0-windows\WinFormsApp2_MouseClick.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\bin\Debug\net6.0-windows\WinFormsApp2_MouseClick.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\obj\Debug\net6.0-windows\WinFormsApp2_MouseClick.csproj.AssemblyReference.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\obj\Debug\net6.0-windows\WinFormsApp2_MouseClick.Form1.resources
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\obj\Debug\net6.0-windows\WinFormsApp2_MouseClick.csproj.GenerateResource.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\obj\Debug\net6.0-windows\WinFormsApp2_MouseClick.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\obj\Debug\net6.0-windows\WinFormsApp2_MouseClick.AssemblyInfoInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\obj\Debug\net6.0-windows\WinFormsApp2_MouseClick.AssemblyInfo.cs
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\obj\Debug\net6.0-windows\WinFormsApp2_MouseClick.csproj.CoreCompileInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\obj\Debug\net6.0-windows\WinFormsApp2_MouseClick.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\obj\Debug\net6.0-windows\refint\WinFormsApp2_MouseClick.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\obj\Debug\net6.0-windows\WinFormsApp2_MouseClick.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\obj\Debug\net6.0-windows\WinFormsApp2_MouseClick.genruntimeconfig.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp2_MouseClick\WinFormsApp2_MouseClick\obj\Debug\net6.0-windows\ref\WinFormsApp2_MouseClick.dll

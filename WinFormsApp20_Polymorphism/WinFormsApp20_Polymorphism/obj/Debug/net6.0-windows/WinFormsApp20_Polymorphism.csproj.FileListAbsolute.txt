@@ -1,0 +1,17 @@
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\bin\Debug\net6.0-windows\WinFormsApp20_Polymorphism.exe
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\bin\Debug\net6.0-windows\WinFormsApp20_Polymorphism.deps.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\bin\Debug\net6.0-windows\WinFormsApp20_Polymorphism.runtimeconfig.json
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\bin\Debug\net6.0-windows\WinFormsApp20_Polymorphism.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\bin\Debug\net6.0-windows\WinFormsApp20_Polymorphism.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\obj\Debug\net6.0-windows\WinFormsApp20_Polymorphism.csproj.AssemblyReference.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\obj\Debug\net6.0-windows\WinFormsApp20_Polymorphism.Form1.resources
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\obj\Debug\net6.0-windows\WinFormsApp20_Polymorphism.csproj.GenerateResource.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\obj\Debug\net6.0-windows\WinFormsApp20_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\obj\Debug\net6.0-windows\WinFormsApp20_Polymorphism.AssemblyInfoInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\obj\Debug\net6.0-windows\WinFormsApp20_Polymorphism.AssemblyInfo.cs
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\obj\Debug\net6.0-windows\WinFormsApp20_Polymorphism.csproj.CoreCompileInputs.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\obj\Debug\net6.0-windows\WinFormsApp20_Polymorphism.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\obj\Debug\net6.0-windows\refint\WinFormsApp20_Polymorphism.dll
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\obj\Debug\net6.0-windows\WinFormsApp20_Polymorphism.pdb
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\obj\Debug\net6.0-windows\WinFormsApp20_Polymorphism.genruntimeconfig.cache
+D:\CodeDrive\HY\c_sharp_test\WinFormsApp20_Polymorphism\WinFormsApp20_Polymorphism\obj\Debug\net6.0-windows\ref\WinFormsApp20_Polymorphism.dll
